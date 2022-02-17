@@ -2,15 +2,12 @@
 <img src="https://raw.githubusercontent.com/mizzyexists/mizzyexists/main/GithubLogo.jpg" width="600px">
 </div>
 
-<div align="center" width="100%">
-  <h1>Hey 👋, I'm Mizzy</h1>
-  <a href="https://www.linkedin.com/in/andrewmissey/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/16496546/mizzy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://www.twitter.com/mizzyexists/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=fff" alt="Twitter" /></a>
-</div>
 <br/>
 <div align="center">
   <h2>About Me</h2>
+  <a href="https://www.linkedin.com/in/andrewmissey/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/16496546/mizzy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.twitter.com/mizzyexists/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=fff" alt="Twitter" /></a>
   <p>🇺🇸 Full Stack Developer from the United States 🇺🇸</p>
   <p>💡 100% Self-Taught 💡</p>
 </div>
