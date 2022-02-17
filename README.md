@@ -9,8 +9,9 @@
   <a href="https://stackoverflow.com/users/16496546/mizzy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://www.twitter.com/mizzyexists/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=fff" alt="Twitter" /></a>
   <br/><br/>
-  <p>🇺🇸 Full Stack Developer from the United States 🇺🇸</p>
-  <p>💡 100% Self-Taught 💡</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzyexists&layout=compact&title_color=4f08dc&text_color=FFFFFF&theme=dark">
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mizzyexists&title_color=4f08dc&text_color=FFFFFF&show_icons=true&icon_color=4f08dc&include_all_commits=true&count_private=true&theme=dark" height="200px">
 </div>
 <br/>
 
@@ -37,6 +38,3 @@
 
 
 <br/>
-<div align="center" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=mizzyexists&title_color=4f08dc&text_color=FFFFFF&show_icons=true&icon_color=4f08dc&include_all_commits=true&count_private=true&theme=dark" height="200px">
-</div>
