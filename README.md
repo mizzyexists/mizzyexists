@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/andrewmissey/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/16496546/mizzy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://www.twitter.com/mizzyexists/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=fff" alt="Twitter" /></a>
-  <br/><br/>
-  <a href="https://wakatime.com/@mizzyexists"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mizzyexists&&title_color=4f08dc&text_color=FFFFFF&theme=dark&custom_title=Last 7+Days+of+Code"></a>
+  <br/>
+  <a href="https://wakatime.com/@0e268371-a910-4a61-be60-f7f9639399d5"><img src="https://wakatime.com/badge/user/0e268371-a910-4a61-be60-f7f9639399d5.svg?style=flat-square" alt="Total time coded since Mar 21 2022" /></a>
   <br/><br/>
   <a href="https://github.com/mizzyexists?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzyexists&layout=compact&count_private=true&title_color=4f08dc&text_color=FFFFFF&theme=dark"></a>
   <br/><br/>
