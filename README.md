@@ -9,7 +9,8 @@
 <strong>Current Favorite Stack:</strong>
 - Next.js
 - Express.js
-- NodeJS
+- Sass
+- TailwindCSS
 - MongoDB
 </p>
 </div>
