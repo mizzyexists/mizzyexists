@@ -1,4 +1,4 @@
-<div align="left">
+
   <h2>About Me</h2>
   <a href="https://www.linkedin.com/in/andrewmissey/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/16496546/mizzy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
@@ -13,7 +13,6 @@
 - TailwindCSS
 - MongoDB
 </p>
-</div>
 <div align="left">
   <h3>Favorite Languages and Resources</h3>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Javascript"></a>
