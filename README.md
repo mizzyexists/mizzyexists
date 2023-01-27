@@ -31,7 +31,6 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" alt="VS Code"></a>
   <a href="https://www.jetbrains.com/" target="_blank"><img src="http://img.shields.io/badge/-JetBrains-6B57FF?style=for-the-badge&logo=jetbrains&logoColor=ffffff" alt="JetBrains"></a>
   <br/><br/>
-    <a href="https://github.com/mizzyexists?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzyexists&layout=compact&count_private=true&title_color=4f08dc&text_color=FFFFFF&theme=dark"></a>
 </div>
 
 
