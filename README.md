@@ -4,7 +4,7 @@
   <a href="https://stackoverflow.com/users/16496546/mizzy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://www.twitter.com/mizzyexists/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=fff" alt="Twitter" /></a>
   <br/><br/>
-  <p>I'm Andrew ("Mizzy"). I'm a software engineer and full‐stack developer with 8+ years in frontend development, and 5+ years designing and implementing backend systems and APIs. Experienced in modern frontend libraries and frameworks such as NextJS, React, & Angular. Also experienced in backend frameworks such as Spring, ExpressJS, and Laravel.
+  <p>I'm Andrew ✌️. I'm a software engineer and full‐stack developer with 8+ years in frontend development, and 5+ years designing and implementing backend systems and APIs. Experienced in modern frontend libraries and frameworks such as NextJS, React, & Angular. Also experienced in backend frameworks such as Spring, ExpressJS, and Laravel.
 
 <strong>Current Favorite Stack:</strong>
 - Next.js
