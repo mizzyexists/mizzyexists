@@ -1,16 +1,10 @@
 
   <h2>About Me</h2>
   <a href="https://www.linkedin.com/in/andrewmissey/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/16496546/mizzy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://www.twitter.com/mizzyexists/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=fff" alt="Twitter" /></a>
   <br/><br/>
-  <p>Hi, I'm Andrew ✌️ I'm a senior software engineer with over 10 years of frontend development experience, and over 5 years of designing and implementing backend systems and APIs. I'm experienced in modern frontend libraries and frameworks such as NextJS, React, & SolidJS. Also experienced in backend frameworks such as ExpressJS, Fastify, and NestJS.
+  <p>Hi, I’m Andrew, a full-stack engineer and technical founder with 10+ years of experience building web platforms and SaaS products. I specialize in crafting scalable, AI-powered applications using modern JavaScript stacks.
 
-<strong>Current Favorite Stack:</strong>
-- Vercel
-- Next.js
-- TailwindCSS
-- Prisma ORM with Postgres
+Currently co-building <strong>PubSent</strong> — turning mass outreach into intelligent, conversational engagement through AI.
 </p>
 <div align="left">
   <h3>Favorite Languages and Resources</h3>
