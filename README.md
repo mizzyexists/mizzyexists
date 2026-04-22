@@ -4,7 +4,7 @@
   <br/><br/>
   <p>Hi, I’m Andrew, a full-stack engineer and technical founder with 10+ years of experience building web platforms and SaaS products. I specialize in crafting scalable, AI-powered applications using modern JavaScript stacks.
 
-Currently building <strong>PubSent</strong> — turning mass outreach into intelligent, conversational engagement through AI.
+Currently building <a href="https://convos.ai" target="_blank"><strong>Convos</strong></a> — turning mass outreach into intelligent, conversational engagement through AI.
 </p>
 <div align="left">
   <h3>Favorite Languages and Resources</h3>
